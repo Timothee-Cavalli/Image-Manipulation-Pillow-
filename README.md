@@ -13,7 +13,7 @@ A graphical interface has been made to use them.
 
     black_and_white : Black and white effect
 
-    sepia : Sepia effect with the red amout given
+    sepia : Sepia effect with the red amount given
 
     luminosity_variation : increase/decrease luminosity
     luminosity_percentage : Change luminosity depending on the percentage given
